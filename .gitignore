@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.env*.local
+.DS_Store
+*.tsbuildinfo
+
+# Generated at runtime by the JSON-file data store — keep the *.seed.json
+# files tracked, but not the live databases they seed.
+data/posts.json
+data/users.json
+data/profiles.json
